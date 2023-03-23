@@ -15,5 +15,5 @@ This Project analyses Closing Prices, Volume of Stocks Traded, for the [Last 5 Y
 ## Analysing Monthly Mean of Closing Price
 ![](https://github.com/SiddhantGupta799/Time-Series-Data-Analysis/blob/main/Images/Monthly-Mean-Closing-Price.png)
 
-## Finding a Correlation between Stocks of DIfferent Techs
+## Finding a Correlation between Stocks of Different Techs
 ![](https://github.com/SiddhantGupta799/Time-Series-Data-Analysis/blob/main/Images/Correlation-Between-Stocks.png)
